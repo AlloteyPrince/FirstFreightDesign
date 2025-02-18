@@ -15,7 +15,6 @@ font-family: roboto;
     background-position: center;
     background-size: cover;}
 
-
 .headerbg-container{
     display: flex;
     justify-content: space-between;
@@ -26,13 +25,11 @@ font-family: roboto;
     vertical-align: middle; 
 }
 
-/*top area*/
 .globe-area{
     display: flex;
     margin-top: 20px;   
 }
 
-/*top left*/
 .globe-icon{
     height: 80px;
     color: white; 
@@ -51,7 +48,6 @@ color: white;
 font-weight: bolder;
 }
 
-/*top right*/
 .header-top-right{
 display:flex;
 justify-content: space-between;
@@ -99,7 +95,6 @@ margin-right: 20px;
 }
 
 
-/*Nav area*/
 nav{
     display: flex;
     justify-content: space-between;
@@ -205,8 +200,6 @@ nav{
 }
 
 
-
-/*Section with our services*/
 .section-1{
     text-align: center;
     margin-left: 300px;
@@ -243,7 +236,7 @@ nav{
     margin-top: 0%;
     margin-bottom: 0%;
 }
-/*Section with images and texts on right*/
+
 
 .absolute-img1{
     height: 250px;
